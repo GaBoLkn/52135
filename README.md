@@ -24,4 +24,7 @@ Estas modificaciones no afectan en nada a la gramática ya que funciona exactame
 
 # Nota:
 Al correr el programa se mostrará el arbol en formato de texto en la terminal, si queremos generarlo de manera gráfica con la extensión de ANTLR4 de visual studio, deberemos cambiar en la configuración de la extensión el archivo de texto a leer, que por defecto es 'input.txt'.
+
+Dentro de este 'input.txt' se encuentra el ejemplo de código que venia con la gramática.
+
 ![image](https://github.com/user-attachments/assets/42007a19-1c4a-401b-bc82-aa6edbcc31a0)
