@@ -20,7 +20,7 @@ Conjunción: '.'
 
 Negación: '-'
 
-Estas modificaciones no afectan en nada a la gramática ya que funciona exactamente como deberia pero con la diferencia de que cambian estos simbolos.
+Estas modificaciones no afectan en nada a la gramática ya que funciona exactamente como debería pero con la diferencia de que cambian estos símbolos.
 
 # Nota:
 Al correr el programa se mostrará el arbol en formato de texto en la terminal, si queremos generarlo de manera gráfica con la extensión de ANTLR4 de visual studio, deberemos cambiar en la configuración de la extensión el archivo de texto a leer, que por defecto es 'input.txt'.
