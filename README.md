@@ -9,11 +9,14 @@ Para poder utilizar este analizador y mostrar el arbol de manera gráfica, deber
 
 # Instrucciones de Uso:
 Para poder usar el analizador debemos correr el archivo de JavaScript "index.js". Para cambiar el archivo de ejemplo que tomará el programa debemos modificar el nombre del archivo a leer en la linea 13 del código.
+
 Cabe aclarar que debido a que la gramática en UTF-8 no detecta los caracteres del código ascii tuve que hacer algunas modificaciones a la hora de definir los lexemas, es por eso que a la hora de realizar las pruebas tiene que tener en cuenta que los lexemas correctos son los siguientes:
+
 Implicación: '->'
 Disyunción: '+'
 Conjunción: '.'
 Negación: '-'
+
 Estas modificaciones no afectan en nada a la gramática ya que funciona exactamente como deberia pero con la diferencia de que cambian estos simbolos.
 
 # Nota:
