@@ -29,7 +29,8 @@ Dentro de este 'input.txt' se encuentra el ejemplo de código que venia con la g
 
 Si cambiamos este por alguno de los input tanto correctos como incorrectos que se encuentran dentro de la carpeta ssl-antlr-calculator podremos ver los distintos inputs ya sean correctos o no.
 
-![image](https://github.com/user-attachments/assets/42007a19-1c4a-401b-bc82-aa6edbcc31a0)
+![image](https://github.com/user-attachments/assets/fef935a2-4830-44ec-a95f-fbfeaaa85390)
+
 
 Esto es solo para poder generar el árbol, si ademas queremos ver la tabla de lexemas y tokens necesitamos cambiar el input en archivo index.js
 
