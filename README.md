@@ -25,7 +25,7 @@ Estas modificaciones no afectan en nada a la gramática ya que funciona exactame
 # Nota:
 Al correr el programa se mostrará el arbol en formato de texto en la terminal, si queremos generarlo de manera gráfica con la extensión de ANTLR4 de visual studio, deberemos cambiar en la configuración de la extensión el archivo de texto a leer, que por defecto es 'input.txt'.
 
-Dentro de este 'input.txt' se encuentra el ejemplo de código que venia con la gramática.
+Dentro de este 'input.txt' se encuentra el ejemplo de código que venia con la gramática, los otros inputs se pueden ver tanto afuera como dentro de la carpeta de la calculadora.
 
 Si cambiamos este por alguno de los input tanto correctos como incorrectos que se encuentran dentro de la carpeta ssl-antlr-calculator podremos ver los distintos inputs ya sean correctos o no.
 
