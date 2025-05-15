@@ -34,24 +34,31 @@ Si el código es correcto se mostrara lo siguiente
 ![image](https://github.com/user-attachments/assets/4620337b-c519-490a-bafb-62f5b70e08fe)
 
 En caso de no serlo se mostrara lo siguiente:
+
 ![image](https://github.com/user-attachments/assets/30f5d16d-aeb0-4788-9c06-283e6990c8c2)
+
 
 #2- Tabla de lexemas-tokens: 
 Esta tabla se podra ver tambien en la terminal del visual una vez ejecutado el programa sin importar si la cadena de entrada es o no correcta.
+
 ![image](https://github.com/user-attachments/assets/7fda45fd-56ab-4cb3-a0db-424bdc1fae25)
+
 **Siendo el NEWLINE el encargado de verificar si hay otra cadena distinta o ya termino ahí el programa**
 
 #3- Árbol de análisis sintáctico:
 Se podra ver de forma textual en la terminal del visual de esta manera:
+
 ![image](https://github.com/user-attachments/assets/32371a99-8693-44f3-81b6-ee2375f7ef64)
 
 Si se quiere ver de forma gráfica vamos a tener que tocar la tecla F5 en el teclado para que con la extensión de ANTLR4 se pueda ver a la derecha de la pantalla.
 **Si el F5 no funciona pruebe con Fn + F5**
+
 ![image](https://github.com/user-attachments/assets/1a901225-f413-4e01-8d65-2d8785786840)
 
 #4- Interpretación-Traducción a JavaScript:
 Esta se realiza en el archivo CustomCalculatorVisitor.js pero se muestra en la terminal cuando se ejecuta el index.js y la entrada es correcta.
 Se deberá ver de esta manera: 
+
 ![image](https://github.com/user-attachments/assets/792ceada-5584-48d3-ad60-56c65ad6c3a8)
 
 
