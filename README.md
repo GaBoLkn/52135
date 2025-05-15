@@ -2,7 +2,7 @@
 Proyecto analizador materia Sintaxis y Semántica de los Lenguajes
 
 # Instalación:
-Clona este repositorio: git clone https://github.com/GaBoLkn/52135
+Clona este repositorio poniendo la siguiente instrucción en el CMD: git clone https://github.com/GaBoLkn/52135.git
 
 # Prerrequisitos:
 Para poder utilizar este analizador y mostrar el arbol de manera gráfica, deberemos tener instalado Visual Studio Code con la extensión de ANTLR4, de lo contrario solo podremos ver el arbol de la gramática en formato de texto.
