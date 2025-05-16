@@ -61,9 +61,3 @@ Esta se realiza en el archivo CustomCalculatorVisitor.js pero se muestra en la t
 Se deberá ver de esta manera: 
 
 ![image](https://github.com/user-attachments/assets/792ceada-5584-48d3-ad60-56c65ad6c3a8)
-
-
-
-![image](https://github.com/user-attachments/assets/4606ebd8-ac42-4b91-bc7e-d115bbcfdb65)
-
-
