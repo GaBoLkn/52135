@@ -10,7 +10,7 @@ Para poder utilizar este analizador y mostrar el árbol de manera gráfica, debe
 Y para poder ejecutar el archivo index.js necesitaremos tener node.js instalado.
 
 # Instrucciones de Uso:
-Para poder usar el analizador debemos abrir la carpeta llamada ssl-antlr-analizador en el visual studio code. Para cambiar el archivo de ejemplo que tomará el programa debemos modificar el contenido dentro del archivo input.txt con alguno de los contenidos de los archivos .txt que estan en este mismo repositorio.
+Para poder usar el analizador debemos abrir la carpeta llamada ssl-antlr-analizador en el visual studio code. Para cambiar el archivo de ejemplo que tomará el programa debemos modificar el contenido dentro del archivo "input.txt" con alguno de los contenidos de los archivos .txt que estan en este mismo repositorio, hay 2 archivos con entradas correctas y 2 con entradas incorrectas.
 
 Cabe aclarar que debido a que la gramática en UTF-8 no detecta los caracteres del código ascii tuve que hacer algunas modificaciones a la hora de definir los lexemas, es por eso que a la hora de realizar las pruebas tiene que tener en cuenta que los lexemas correctos son los siguientes:
 
@@ -25,6 +25,8 @@ Negación: '-'
 Estas modificaciones no afectan en nada a la gramática ya que funciona exactamente como debería pero con la diferencia de que cambian estos símbolos.
 
 Para correr el programa vamos a tener que abrir la terminal de visual studio code y ejecutar el siguiente comando "node index.js".
+
+Otra forma de ejecutarlo es abriendo un CMD, cambiando el repositorio al cual se encuentra el analizador y ejecutar el mismo comando.
 
 ![image](https://github.com/user-attachments/assets/54093c48-7c55-411b-ac66-3fa6f3e5012c)
 
