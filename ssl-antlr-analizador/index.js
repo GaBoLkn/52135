@@ -11,7 +11,7 @@ async function main() {
 
     // Intento leer la entrada desde el archivo input - en forma sincrona.
     try {
-        input = fs.readFileSync('input.txt', 'utf8');
+        input = fs.readFileSync('ssl-antlr-analizador/input.txt', 'utf8');
     } catch (err) {
         // Si no es posible leer el archivo, solicitar la entrada del usuario por teclado
         input = await leerCadena(); // Simula lectura síncrona
