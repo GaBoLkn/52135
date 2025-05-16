@@ -24,7 +24,7 @@ Negación: '-'
 
 Estas modificaciones no afectan en nada a la gramática ya que funciona exactamente como debería pero con la diferencia de que cambian estos símbolos.
 
-Para correr el programa vamos a tener que habrir la terminal de visual studio code y poner el siguiente comando "node index.js".
+Para correr el programa vamos a tener que abrir la terminal de visual studio code y poner el siguiente comando "node index.js".
 ![image](https://github.com/user-attachments/assets/54093c48-7c55-411b-ac66-3fa6f3e5012c)
 
 Una vez se ejecute el programa vamos a poder ver todos los puntos del ejercicio en la terminal del visual.
