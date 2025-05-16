@@ -1,7 +1,3 @@
-//import { Parser } from "antlr4";
-//import CalculatorVisitor from "./generated/CalculatorVisitor.js";
-//import CalculatorParser from "./generated/CalculatorParser.js";
-
 import { CharStreams, CommonTokenStream } from "antlr4";
 import CalculatorVisitor from "./generated/CalculatorVisitor.js";
 import CalculatorParser from "./generated/CalculatorParser.js";
