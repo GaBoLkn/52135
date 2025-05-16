@@ -5,7 +5,7 @@ Proyecto analizador materia Sintaxis y Semántica de los Lenguajes
 Clona este repositorio poniendo la siguiente instrucción en el CMD: git clone https://github.com/GaBoLkn/52135.git
 
 # Prerrequisitos:
-Para poder utilizar este analizador y mostrar el arbol de manera gráfica, deberemos tener instalado Visual Studio Code con la extensión de ANTLR4, de lo contrario solo podremos ver el arbol de la gramática en formato de texto.
+Para poder utilizar este analizador y mostrar el árbol de manera gráfica, deberemos tener instalado Visual Studio Code con la extensión de ANTLR4, de lo contrario solo podremos ver el árbol de la gramática en formato de texto.
 
 Y para poder ejecutar el archivo index.js necesitaremos tener node.js instalado.
 
@@ -30,7 +30,8 @@ Para correr el programa vamos a tener que abrir la terminal de visual studio cod
 Una vez se ejecute el programa vamos a poder ver todos los puntos del ejercicio en la terminal del visual.
 
 #1- Realizar el análisis lexico y sintáctico: 
-Si el código es correcto se mostrara lo siguiente 
+Si el código es correcto se mostrara lo siguiente
+
 ![image](https://github.com/user-attachments/assets/4620337b-c519-490a-bafb-62f5b70e08fe)
 
 En caso de no serlo se mostrara lo siguiente:
