@@ -55,7 +55,7 @@ Se podra ver de forma textual en la terminal del visual de esta manera:
 
 ![image](https://github.com/user-attachments/assets/32371a99-8693-44f3-81b6-ee2375f7ef64)
 
-Si se quiere ver de forma gráfica vamos a tener abrir el archivo Calculator.g4 y tocar la tecla F5 en el teclado para que con la extensión de ANTLR4 se pueda ver a la derecha de la pantalla.
+Si se quiere ver de forma gráfica vamos a tener abrir el archivo Calculator.g4 en una ventana de visual studio code y tocar la tecla F5 en el teclado para que con la extensión de ANTLR4 se pueda ver a la derecha de la pantalla.
 **Si el F5 no funciona pruebe con Fn + F5**
 
 ![image](https://github.com/user-attachments/assets/1a901225-f413-4e01-8d65-2d8785786840)
