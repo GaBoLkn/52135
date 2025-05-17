@@ -9,7 +9,7 @@ Para poder utilizar este analizador y mostrar el árbol de manera gráfica, debe
 
 Y para poder ejecutar el archivo index.js necesitaremos tener node.js instalado.
 
-# Instrucciones de Uso:
+# Aclaraciones:
 Cabe aclarar que debido a que la gramática en UTF-8 no detecta los caracteres del código ascii tuve que hacer algunas modificaciones a la hora de definir los lexemas, es por eso que a la hora de realizar las pruebas tiene que tener en cuenta que los lexemas correctos son los siguientes:
 
 Implicación: '->'
