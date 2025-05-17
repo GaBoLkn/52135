@@ -31,7 +31,7 @@ En este momento hay 2 formas distintas de poder ejecutar el programa de manera c
 
 2- Escribimos el comando 'code .' que si temnemos visual studio code instalado nos deberá abrir el programa en una ventana de visual. Una vez dentro del visual lo que debemos hacer es abrir la terminal con 'CTRL +  ñ' y dentro de esta terminal ejecutar el comando 'node ssl-antlr-analizador/index.js'
 
-Una vez se ejecute el programa vamos a poder ver todos los puntos del ejercicio en la terminal del visual.
+Una vez se ejecute el programa vamos a poder ver todos los puntos del ejercicio en la terminal del visual o en el CMD según se ejecuto el programa.
 
 #1- Realizar el análisis lexico y sintáctico: 
 Si el código es correcto se mostrara lo siguiente
